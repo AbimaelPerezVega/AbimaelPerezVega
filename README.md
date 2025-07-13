@@ -8,6 +8,20 @@
 </div>
 
 <div align="center">
+<h2>🛡️ Cybersecurity Projects</h2>
+<p>I’ve recently been focusing on cybersecurity, working on hands-on projects that simulate real-world attack and defense scenarios. Here's some of what I've done:</p>
+
+<ul align="left">
+  <li><strong>🔍 Vulnerability Scanning with Nessus Essentials:</strong> Configured and executed web app scans, analyzing output to report and classify vulnerabilities based on CVSS and CWE.</li>
+  <li><strong>🐚 Shell Scripting for Security Bypass:</strong> Bypassed command blacklists on Kali Linux using custom shell scripts to escalate privileges and capture flag files.</li>
+  <li><strong>🪟 Windows Privilege Escalation Labs:</strong> Performed privilege escalation across multiple VMs using SAM/SYSTEM files, service hijacking with DLL injection, and PowerShell transcript analysis.</li>
+  <li><strong>📝 CVE/CWE Awareness Series:</strong> Wrote a blog-style series breaking down real CVEs and CWEs, explaining root causes and mitigations in simple terms.</li>
+</ul>
+
+<p>More coming soon as I continue to expand my cybersecurity toolkit!</p>
+</div>
+
+<div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> If you want to connect with me, you can find my professional profile and contact details on LinkedIn. Don't hesitate to contact me for collaborations, opportunities, or to discuss the latest advancements in software technology. Let's work together to innovate!" </p>
 
